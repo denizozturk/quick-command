@@ -1,0 +1,13 @@
+.idea
+build
+composer.lock
+coverage
+docs
+phpunit.xml
+phpstan.neon
+testbench.yaml
+.phpunit.result.cache
+.phpstan.neon.dist
+.phpstan-baseline.neon
+vendor
+node_modules

@@ -1,0 +1,8 @@
+<?php
+
+namespace {{namespace}};
+
+trait {{concern_name}}
+{
+    //
+}
